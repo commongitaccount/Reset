@@ -1,1 +1,1 @@
-conflict occurs
+conflict occurs while merging
