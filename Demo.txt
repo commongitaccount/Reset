@@ -1,1 +1,2 @@
 conflict occurs
+conflict occurs while merging with master
